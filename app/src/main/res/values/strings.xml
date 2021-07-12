@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo Database</string>
+    <string name="description">Enter Description</string>
+    <string name="date">Enter Date</string>
 </resources>
